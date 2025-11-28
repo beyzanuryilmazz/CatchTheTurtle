@@ -26,7 +26,7 @@ Since the project uses Python's standard libraries, no external installation (`p
 
 1. **Clone the repository:**
    ```bash
-   git clone [[https://github.com/YOUR_USERNAME/catch-the-turtle.git](https://github.com/YOUR_USERNAME/catch-the-turtle.git)](https://github.com/beyzanuryilmazz/CatchTheTurtle.git)](https://github.com/beyzanuryilmazz/CatchTheTurtle.git)
+   git clone git clone https://github.com/beyzanuryilmazz/catch-the-turtle.git
    cd catch-the-turtle
    
 2. **Run the game:**
